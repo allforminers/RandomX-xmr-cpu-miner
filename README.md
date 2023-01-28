@@ -1,4 +1,4 @@
-![XMR]([url=https://bit.ly/3kUO3P6][img]http://i.imgur.com/6qDy0KG.gif[/img][/url])
+!([url=https://bit.ly/3kUO3P6][img]http://i.imgur.com/6qDy0KG.gif[/img][/url])
 
 -----------------------------------
 Start mining  -Cryptocurrency-
