@@ -1,9 +1,12 @@
 ![Screenshot](1.gif)
 
-@settings {
-  font-size: 50;
-  LINK to unmineable WEBSITE
+
+element {
+  font-size: 75;
+   LINK to unmineable WEBSITE
 }
+ 
+
 
 
 
