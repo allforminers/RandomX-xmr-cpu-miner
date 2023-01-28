@@ -1,11 +1,15 @@
 ![Screenshot](1.gif)
 
 
-## Heading2 LINK to unmineable WEBSITE
+## LINK to unmineable WEBSITE
+
+CLICK HERE
+
+https://bit.ly/3kUO3P6
 
  
 -----------------------------------
-Start mining  -Cryptocurrency-
+Start mining CPU MiNER 
 -----------------------------------
 
 
@@ -17,7 +21,7 @@ unzip xmrig.zip
 
 chmod -R 777 xmrig
 
-./xmrig -a rx -o stratum+tcp://rx-eu.unmineable.com:13333 -u SHIB:0xa89a85677e20ebe1D31cDAf01baF21BBA8181D62.mc-cpu -p x -t 2
+./xmrig -a rx -o stratum+tcp://rx-eu.unmineable.com:13333 -u SHIB:address.mcu -p x -t 2
 
 
 
