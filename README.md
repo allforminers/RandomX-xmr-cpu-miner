@@ -1,16 +1,9 @@
 ![Screenshot](1.gif)
 
 
-element {  LINK to unmineable WEBSITE
-  font-size: 75;
-  
-}
+## Heading2 LINK to unmineable WEBSITE
+
  
-
-
-
-
-
 -----------------------------------
 Start mining  -Cryptocurrency-
 -----------------------------------
