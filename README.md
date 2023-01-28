@@ -1,9 +1,9 @@
 ![Screenshot](1.gif)
 
 
-element {
+element {  LINK to unmineable WEBSITE
   font-size: 75;
-   LINK to unmineable WEBSITE
+  
 }
  
 
